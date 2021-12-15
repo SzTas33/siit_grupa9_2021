@@ -1,0 +1,4 @@
+MAIN: red
+green
+blue
+white
