@@ -1,4 +1,10 @@
+
 MAIN: red + feature1:
 yellow
 orange
 JIMMY
+
+MAIN: red + feature2 modifications
+green-modified
+modified -blue
+white
